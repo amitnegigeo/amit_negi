@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Amit Negi
 #### I am Geospatial data Enthusiast.
-![I am Geospatial data Enthusiast.](https://github.com/amitnegigeo/amit_negi/blob/main/image.jpg)
+![I am Geospatial data Enthusiast.](https://github.com/amitnegigeo/amit_negi/blob/main/image.jpg ){:width="300px"}
 
 I am 🚀 Passionate GIS professional with an MSc in Remote Sensing 🌐 & M.Tech in Disaster Management 🌪️. GIS technician with 1.5 years experience 🗺️. Python & machine learning enthusiast 🐍. GitHub showcases innovative geospatial projects 🌟. Advocate for a resilient and sustainable future 🌍. Open to collaborations 🤝. Let's code for a brighter tomorrow! 💻🌈
 
@@ -15,8 +15,4 @@ Skills: Pyhton/Machine Learning / Deep Learning
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amitnegigeo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amitnegi4799//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](amitnegi.github.io)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitnegigeo)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amitnegigeo&show_icons=true)  
 
