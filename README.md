@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Amit Negi
 #### I am Geospatial data Enthusiast.
-![I am Geospatial data Enthusiast.](https://github.com/amitnegigeo/amit_negi/blob/main/image.jpg ){:width="300px"}
+![I am Geospatial data Enthusiast.](https://github.com/amitnegigeo/amit_negi/blob/main/image.jpg alt="Alt Text" width="300")
 
 I am 🚀 Passionate GIS professional with an MSc in Remote Sensing 🌐 & M.Tech in Disaster Management 🌪️. GIS technician with 1.5 years experience 🗺️. Python & machine learning enthusiast 🐍. GitHub showcases innovative geospatial projects 🌟. Advocate for a resilient and sustainable future 🌍. Open to collaborations 🤝. Let's code for a brighter tomorrow! 💻🌈
 
