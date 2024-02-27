@@ -1,11 +1,10 @@
-# amit_negi
-### Hi there 👋, my name is Amit Negi
+### Hi there 👋, My name is Amit Negi
 #### I am Geospatial data Enthusiast.
-![I am Geospatial data Enthusiast.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Geospatial data Enthusiast.](https://github.com/amitnegigeo/amit_negi/blob/main/image.jpg)
 
 I am 🚀 Passionate GIS professional with an MSc in Remote Sensing 🌐 & M.Tech in Disaster Management 🌪️. GIS technician with 1.5 years experience 🗺️. Python & machine learning enthusiast 🐍. GitHub showcases innovative geospatial projects 🌟. Advocate for a resilient and sustainable future 🌍. Open to collaborations 🤝. Let's code for a brighter tomorrow! 💻🌈
 
-Skills: Pyhton/Machine Learning / Depp Learning
+Skills: Pyhton/Machine Learning / Deep Learning
 
 - 🔭 I’m currently working on Deep learning to asses the effect of land use/land cover and climate change on landslide mapping 
 - 🌱 I’m currently learning Deep learning 
@@ -20,5 +19,4 @@ Skills: Pyhton/Machine Learning / Depp Learning
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitnegigeo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amitnegigeo&show_icons=true)  
-
 
