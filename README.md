@@ -6,7 +6,7 @@ I am 🚀 Passionate GIS professional with an MSc in Remote Sensing 🌐 & M.Tec
 
 Skills: Pyhton/Machine Learning / Deep Learning
 
-- 🔭 I’m currently working on Deep learning to asses the effect of land use/land cover and climate change on landslide mapping 
+- 🔭 I’m currently working on Deep learning t...... 
 - 🌱 I’m currently learning Deep learning 
 - 👯 I’m looking to collaborate on Research on geospatial and natural hazards impact on climate change  
 - 💬 Ask me about "Feel free to ask me about my GitHub projects and collaborations! I'm always open to discussions and excited to share insights on coding, GIS, and geospatial technologies. Let's connect and explore the world of coding together! 🚀💻" 
