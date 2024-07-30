@@ -4,7 +4,7 @@
 
 I am 🚀 Passionate GIS professional with an MSc in Remote Sensing 🌐 & M.Tech in Disaster Management 🌪️. GIS technician with 1.5 years experience 🗺️. Python & machine learning enthusiast 🐍. GitHub showcases innovative geospatial projects 🌟. Advocate for a resilient and sustainable future 🌍. Open to collaborations 🤝. Let's code for a brighter tomorrow! 💻🌈
 
-Skills: Pyhton/Machine Learning / Deep Learning
+Skills: Python/Machine Learning / Deep Learning / Remote Sensing / GIS 
 
 - 🔭 I’m currently working on Deep learning t...... 
 - 🌱 I’m currently learning Deep learning 
